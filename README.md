@@ -1,6 +1,8 @@
 # LoLSpellRemember
 Made By Jung1330 , MainName = LoLRememberV
 
+Application haven't any Virus or Keylogger.The Application haven't any Protector,you will seen on DnSpy
+
 Application Video = SOON
 
 # Version : V1.0
