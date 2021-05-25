@@ -14,4 +14,6 @@ Fixed some bugs and added 1920x1080 resolution
 # Version : V1.1
 Some Bugs Fixed
 
+OLD VERSİON
+
 
